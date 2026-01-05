@@ -406,25 +406,5 @@ Si encuentras problemas no listados aqui:
 
 ---
 
-## Checklist de Ejecucion Exitosa
-
-Antes de entregar el proyecto, verifica:
-
-- [ ] Python 3.8+ instalado
-- [ ] Todas las dependencias instaladas
-- [ ] Notebook abre sin errores
-- [ ] Celda 1 ejecuta completamente
-- [ ] Experimento 1 (N=15) genera histograma
-- [ ] Experimento 2 (N=21) termina sin errores
-- [ ] Graficos de comparacion se visualizan
-- [ ] Celda 2 (escalabilidad) genera tablas y graficos
-- [ ] Resultados guardados en carpeta `resultados/`
-- [ ] README.md revisado y actualizado
-
----
-
-*** Listo! Ahora estas preparado para ejecutar el proyecto completo. ***
-
-Si todo funciona correctamente, deberias ver factorizaciones exitosas, graficos comparativos y analisis completos de escalabilidad.
 
 

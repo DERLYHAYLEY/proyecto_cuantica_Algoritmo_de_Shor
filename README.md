@@ -9,8 +9,8 @@ Demostrar la vulnerabilidad del sistema criptografico RSA frente a la computacio
 
 ### Universidad
 **Universidad Nacional de San Antonio Abad del Cusco**  
-Departamento Academico de Informatica - Computacion Cuantica  
-Enero 2026
+Escuela Profesional de Ingenieria Informatica y de Sistemas - Computacion Cuantica  
+
 
 ---
 
@@ -201,14 +201,6 @@ RSA se basa en la dificultad de **factorizar numeros grandes** en tiempo razonab
 
 ---
 
-## Autores
-
-**[Tu Nombre Aqui]**  
-Universidad Nacional de San Antonio Abad del Cusco  
-Departamento de Informatica - Computacion Cuantica
-
----
-
 ## Licencia
 
 Este proyecto es de código abierto con fines educativos y de investigación.
@@ -222,19 +214,6 @@ Este es un proyecto educativo. Para sugerencias o mejoras:
 2. Prueba las implementaciones
 3. Documenta cualquier hallazgo
 
----
-
-## Contacto
-**[Tu Email]**  
-Universidad Nacional de San Antonio Abad del Cusco
-
----
-
-## Reconocimientos
-
-- **Qiskit Team** por el excelente framework de computacion cuantica
-- **IBM Quantum** por recursos educativos
-- **Universidad Nacional de San Antonio Abad del Cusco** por el apoyo academico
 
 ---
 
